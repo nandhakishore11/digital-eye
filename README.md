@@ -21,6 +21,6 @@ YOLO (Only the architecture. Not darknet)
 ```
 ## Helpers
 I sought help from various sources other than online courses. They really helped me understand what's happening to deduce boxes from YOLO's predictions. They are
-* [Christopher Bourez's Explanation](http://christopher5106.github.io/object/detectors/2017/08/10/bounding-box-object-detectors-understanding-yolo.html) 
+* [Christopher Bourez's Explanation](http://christopher5106.github.io/object/detectors/2017/08/10/bounding-box-object-detectors-understanding-yolo.html)  - AWESOME Explanation. You've to check it out!! The best in the internet.
 * [YAD2K](https://github.com/allanzelener/YAD2K) 
 * [DarkFlow](https://github.com/thtrieu/darkflow)
